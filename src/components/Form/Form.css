@@ -1,0 +1,6 @@
+.expcreateform{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap:.5em;
+    margin: auto;
+}

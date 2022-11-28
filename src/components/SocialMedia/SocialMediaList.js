@@ -5,12 +5,12 @@ import { FaQuora } from 'react-icons/fa';
 
 
 const SocialMediaList = ({ socialMediaListItem }) => {
-    const { title} = socialMediaListItem;
+    const { title, url} = socialMediaListItem;
     // const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
 
     return (
         <div style={{ margin: '10px 0' }}>
-            <a style={{ textDecoration: 'none' }} href={`http://{url}`}>
+            <a style={{ textDecoration: 'none' }} href={`http://${url}`}>
                 {title === 'LinkedIn' && <><AiOutlineLinkedin style={{ margin: '-3px 10px' }} />{title} - dineshgowdpatel </>}
                 {title === 'YouTube' && <><AiOutlineYoutube style={{ margin: '-3px 10px' }} />{title} - @autodidact2590</>}
                 {title === 'Quora' && <><FaQuora style={{ margin: '-3px 10px' }} />{title}</>}

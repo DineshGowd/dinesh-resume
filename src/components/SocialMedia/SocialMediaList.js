@@ -1,12 +1,12 @@
 import React from 'react'
 import { AiOutlineLinkedin, AiOutlineYoutube } from 'react-icons/ai';
 import { FaQuora } from 'react-icons/fa';
-import { useMediaQuery } from 'react-responsive'
+// import { useMediaQuery } from 'react-responsive'
 
 
 const SocialMediaList = ({ socialMediaListItem }) => {
-    const { title, url } = socialMediaListItem;
-    const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
+    const { title} = socialMediaListItem;
+    // const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
 
     return (
         <div style={{ margin: '10px 0' }}>

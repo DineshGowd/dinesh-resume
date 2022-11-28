@@ -6,7 +6,7 @@ const Download = () => {
 
     return (
         <div>
-            <button className="button-85" role="download"> <a href={resume} style={{textDecoration:'none',color:'white'}} download> Download <br /> Resume </a></button>
+            <button className="button-85"> <a href={resume} style={{textDecoration:'none',color:'white'}} download> Download <br /> Resume </a></button>
         </div>
     )
 }

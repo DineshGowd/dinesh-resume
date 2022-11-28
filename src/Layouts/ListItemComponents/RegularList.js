@@ -1,5 +1,5 @@
 const RegularList = ({ items, resourceName, itemComponent: ItemComponent }) => {
-  {console.log(`item : ${items} , resourceName : ${resourceName}`)}
+  // {console.log(`item : ${items} , resourceName : ${resourceName}`)}
   return (
     <>
       {items.map((item,i) => 

@@ -1,6 +1,6 @@
 import React from 'react'
-import Achievements from '../Achievements/Achievements'
-import Education from '../Education/Education'
+// import Achievements from '../Achievements/Achievements'
+// import Education from '../Education/Education'
 import ProfileDesc from '../ProfileDesc/ProfileDesc'
 import WorkExperience from '../WorkExperience/WorkExperience'
 

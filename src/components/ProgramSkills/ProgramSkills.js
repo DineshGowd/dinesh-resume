@@ -13,10 +13,13 @@ const programSkillsItem = [
         title: "PWA",
     },
     {
-        title: "CSS",
+        title: "React JS",
     },
     {
-        title: "React JS",
+        title: "HTML",
+    },
+    {
+        title: "CSS",
     },
     {
         title: "GIT",

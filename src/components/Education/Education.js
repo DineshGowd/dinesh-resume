@@ -5,7 +5,7 @@ import EducationList from './EducationList'
 const eduactionItem = [
     {
         title: "B.Tech - Computer Science",
-        timeline: "06/2015 - 06/2020",
+        timeline: "06/2015 - 06/2019",
         description: "G Pulla Reddy Engineering College, Kurnool"
     },
     {
@@ -15,7 +15,7 @@ const eduactionItem = [
     },
     {
         title: "S S C",
-        timeline: "06/2012 - 06/2023",
+        timeline: "06/2012 - 06/2013",
         description: "Sri Sadguru Jyothi E M School, Konakondla"
     }
 ];

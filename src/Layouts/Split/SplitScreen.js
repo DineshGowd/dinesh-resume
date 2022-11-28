@@ -14,7 +14,6 @@ const Pane = styled.div`
   flex: ${props => props.weight};
   background-color: ${props => props.fpbcolor};
   border-radius: ${props => props.fpborderradius};
-
 `;
 
 const SplitScreen = ({ children, leftWeight = 1, rightWeight = 1, fcdirection = 'row', fcmargin = '0px', fcheight = 'auto', fpbrcolor="auto", fpblcolor="auto", fprborderradius='auto' ,fplborderradius='auto',fborderradius='auto' }) => {

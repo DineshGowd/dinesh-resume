@@ -1,7 +1,7 @@
 import React from 'react'
 
-const AchievementsList = ({ achievementItem }) => {
-    const { title, description } = achievementItem;
+const CertificationList = ({ certificationItem }) => {
+    const { title, description } = certificationItem;
     return (
         <>
             <h5 style={{margin:'10px 0 0 0'}}>{title}</h5>
@@ -10,4 +10,4 @@ const AchievementsList = ({ achievementItem }) => {
     );
 }
 
-export default AchievementsList
+export default CertificationList

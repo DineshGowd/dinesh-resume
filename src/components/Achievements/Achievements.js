@@ -4,10 +4,12 @@ import AchievementsList from './AchievementsList';
 
 const achievementItem = [
     {
-        title: "Best Project Contribution",
+        title: "Best Contributor to Project and Practice",
+        description:"Recognized for my excellent contribution to Practice"
     },
     {
-        title: "Best Project Mentoring Contribution",
+        title: "Best Mentoring/Presentation in Center of Excellence",
+        description:"Recognized for my excellent contribution to Practice"
     },
     
 ];

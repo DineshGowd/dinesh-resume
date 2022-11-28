@@ -6,7 +6,7 @@ import WorkExperience from '../WorkExperience/WorkExperience'
 
 const LeftSection = () => {
   return (
-    <div style={{marginTop:'20px'}}>
+    <div style={{ marginTop: '20px', marginRight: '20px' }}>
       <ProfileDesc />
       <WorkExperience />
     </div>

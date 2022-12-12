@@ -6,7 +6,7 @@ const WorkExperienceList = ({ workItem }) => {
     return (
         <div>
             <h3>Project : {title}</h3>
-            <p style={{ margin: '0px' }}> 📅 {timeline}</p>
+            <p style={{ margin: '-2px' }}> 📅 {timeline}</p>
             <p>{description}</p>
             <p>Achievements/Tasks :</p>
             <ul>

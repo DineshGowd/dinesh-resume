@@ -4,8 +4,8 @@ import WorkExperienceList from './WorkExperienceList'
 
 const workItem = [
     {
-        title: "Rust Web Application",
-        timeline: "10/2021 - present",
+        title: "Rust Web Applications",
+        timeline: "08/2021 - present",
         description: "Created Rust Web applications and having good exposure to rust data structures. ",
         points: ["Creating API endpoints with efficient code in RUST programming language",
             "Connecting to MongoDB using Rocket Web Framework",
@@ -24,7 +24,7 @@ const workItem = [
     },
     {
         title: "Starbucks",
-        timeline: "03/2019 - 07/2021",
+        timeline: "06/2019 - 07/2021",
         description: "Worked as TRIRIGA UI / UX Developer in transforming classic form to react form with enhanced navigation.",
         points: ["Developed TRIRIGA UI/UX Application using React which optimized user experience that reduces manual efforts.",
             "Flexible in designing and implementing UX application using TRIRIGA UI/UX Designer tools. Model Designer, Web ViewDesigner, Model - View Designer and Application Designer.",

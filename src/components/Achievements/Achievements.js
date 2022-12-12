@@ -8,7 +8,7 @@ const achievementItem = [
         description:"Recognized for my excellent contribution to Practice"
     },
     {
-        title: "Best Mentoring/Presentation in Center of Excellence",
+        title: "Best Mentoring / Presentation in Center of Excellence",
         description:"Recognized for my excellent contribution to Practice"
     },
     
@@ -18,7 +18,7 @@ const achievementItem = [
 const Achievements = () => {
     return (
         <div>
-            <h3 style={{textDecoration:'underline wavy cyan'}}>Achievements : </h3>
+            <h3 style={{marginBottom:'10px',fontSize:'14px', textDecoration:'underline wavy cyan'}}>Achievements : </h3>
             <RegularList
                 items={achievementItem}
                 resourceName="achievementItem"

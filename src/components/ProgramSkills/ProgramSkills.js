@@ -19,6 +19,9 @@ const programSkillsItem = [
         title: "gRPC",
     },
     {
+        title: "Diesel ORM",
+    },
+    {
         title: "HTML",
     },
     {
@@ -36,7 +39,7 @@ const programSkillsItem = [
 const ProgramSkills = () => {
     return (
         <div>
-            <h3 style={{textDecoration:'underline wavy cyan'}} >Skill Set: </h3>
+            <h3 style={{marginBottom:'10px',fontSize:'16px',textDecoration:'underline wavy cyan'}} >Skill Set : </h3>
             <RegularList
                 items={programSkillsItem}
                 resourceName="programSkillsItem"

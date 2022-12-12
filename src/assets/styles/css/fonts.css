@@ -64,7 +64,13 @@ Quicksand-Regular
 quicksand
 Quicksand_Dash
 -----------------------
+Georgia
+-----------------------
+arial
+-----------------------
+
 */
+
 
 /* ------- Aller ---------- */
 @font-face {
@@ -316,4 +322,18 @@ Quicksand_Dash
     src: url(../../fonts/quicksand/Quicksand_Dash.otf);
  }
  
+/* -------Georgia---------- */
+
+@font-face {
+   font-family: Georgia;
+   src: url(../../fonts/Georgia/Georgia.ttf);
+}
 /* ----------------- */
+/* -------arial---------- */
+
+@font-face {
+   font-family: arial;
+   src: url(../../fonts/arial/arial.ttf);
+}
+/* ----------------- */
+

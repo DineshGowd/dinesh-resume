@@ -23,7 +23,7 @@ const eduactionItem = [
 const Education = () => {
     return (
         <div>
-            <h3 style={{textDecoration:'underline wavy cyan'}}>Education : </h3>
+            <h3 style={{marginBottom:'10px', textDecoration:'underline wavy cyan'}}>Education : </h3>
             <RegularList
                 items={eduactionItem}
                 resourceName="eduactionItem"

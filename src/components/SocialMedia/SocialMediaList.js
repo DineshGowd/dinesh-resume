@@ -12,7 +12,7 @@ const SocialMediaList = ({ socialMediaListItem }) => {
         <div style={{ margin: '10px 0' }}>
             <a style={{ textDecoration: 'none' }} href={`http://${url}`}>
                 {title === 'LinkedIn' && <><AiOutlineLinkedin style={{ margin: '-3px 10px' }} />{title} - dineshgowdpatel </>}
-                {title === 'YouTube' && <><AiOutlineYoutube style={{ margin: '-3px 10px' }} />{title} - @autodidact2590</>}
+                {title === 'YouTube' && <><AiOutlineYoutube style={{ margin: '-3px 10px' }} />{title} - @autodidact2590 - Rust Content Creator</>}
                 {title === 'Quora' && <><FaQuora style={{ margin: '-3px 10px' }} />{title}</>}
             </a>
             <br />

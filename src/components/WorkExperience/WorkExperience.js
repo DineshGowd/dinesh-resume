@@ -5,17 +5,19 @@ import WorkExperienceList from './WorkExperienceList'
 const workItem = [
     {
         title: "Rust Web Applications",
-        timeline: "08/2021 - present",
+        Org:'Sakha Global, Personal Project', 
+        timeline: "08/2021 - Present",
         description: "Created Rust Web applications and having good exposure to rust data structures. ",
-        points: ["Creating API endpoints with efficient code in RUST programming language",
-            "Connecting to MongoDB using Rocket Web Framework",
-            "Performing Create, Read, Delete , Update operation on MongoDB using Rust Web Framework",
-            "Exhibiting best practice in Rust and mentoring the juniors on Rust Programming"
+        points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in RUST programming language",
+            "Hands-on knowledge on installation of Diesel with postgres to perform CURD Operations.",
+            "Created Rust web application using Rocket Framework, Diesel ORM and React as Frontend",
+            "Exhibiting best practice in Rust and mentoring the juniors on Rust Programming."
         ]
     },
     {
         title: "Celebrity Connect",
-        timeline: "08/2021 - 09/2022",
+        Org:'Sakha Global',
+        timeline: "01/2022 - 09/2022",
         description: "Worked as Frontend UI / UX Developer in implementation of the solution to Celebrity Web App",
         points: ["Experienced in React JS and React Design Patterns. ",
             "Developed web app with excellent User Experience and User Interface by implementing Progressive Web Application",
@@ -24,7 +26,8 @@ const workItem = [
     },
     {
         title: "Starbucks",
-        timeline: "06/2019 - 07/2021",
+        Org:'Wipro Limited',
+        timeline: "06/2019 - 01/2022",
         description: "Worked as TRIRIGA UI / UX Developer in transforming classic form to react form with enhanced navigation.",
         points: ["Developed TRIRIGA UI/UX Application using React which optimized user experience that reduces manual efforts.",
             "Flexible in designing and implementing UX application using TRIRIGA UI/UX Designer tools. Model Designer, Web ViewDesigner, Model - View Designer and Application Designer.",

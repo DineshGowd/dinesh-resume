@@ -1,16 +1,15 @@
 @import url('./normalize.css');
 @import url('./fonts.css');
-body {
-  margin: 0;
-  font-family: OpenSans-Regular;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  /* text-align: justify; */
-  word-spacing: 4px !important;
-
+:root{
+  --title-font-size: 16px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  margin: 0;
+  font-family: arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  word-spacing: 1px !important;
+  line-height: .6cm;
+  font-size: 14px;
 }

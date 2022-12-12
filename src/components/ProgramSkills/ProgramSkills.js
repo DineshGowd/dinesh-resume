@@ -16,6 +16,9 @@ const programSkillsItem = [
         title: "React JS",
     },
     {
+        title: "gRPC",
+    },
+    {
         title: "HTML",
     },
     {

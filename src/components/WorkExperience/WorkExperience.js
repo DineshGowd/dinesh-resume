@@ -6,9 +6,9 @@ const workItem = [
     {
         title: "Rust Web Applications",
         Org:'Personal Project, Sakha Global', 
-        timeline: "08/2021 - Present",
+        timeline: "07/2021 - Present",
         description: "Created Rust Web applications and having good exposure to rust data structures. ",
-        points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in RUST programming language",
+        points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in RUST programming language.",
             "Hands-on knowledge on installation of Diesel with PostgreSQL to perform CURD Operations.",
             "Created Rust web application using Rocket Framework, Diesel ORM and React as Frontend",
             "Exhibiting best practice in Rust and mentoring juniors on Rust Programming."
@@ -18,10 +18,10 @@ const workItem = [
         title: "Celebrity Connect",
         Org:'Sakha Global',
         timeline: "01/2022 - 09/2022",
-        description: "Worked as Frontend UI / UX Developer in implementation of the solution to Celebrity Web App",
+        description: "Worked as Frontend UI / UX Developer in implementation of solution to Celebrity Web App.",
         points: ["Experienced in React JS and React Design Patterns. ",
-            "Developed web app with excellent User Experience and User Interface by implementing Progressive Web Application",
-            "Having good exposure to data flow management in react application using Redux and Redux Toolkit",
+            "Developed web app with excellent User Experience and User Interface by implementing Progressive Web Application.",
+            "Having good exposure to data flow management in react application using Redux and Redux Toolkit.",
         ]
     },
     {

@@ -1,6 +1,8 @@
 import React from 'react'
 import { AiOutlineLinkedin, AiOutlineYoutube } from 'react-icons/ai';
 import { FaQuora } from 'react-icons/fa';
+import { ImProfile } from 'react-icons/im';
+
 // import { useMediaQuery } from 'react-responsive'
 
 
@@ -14,6 +16,7 @@ const SocialMediaList = ({ socialMediaListItem }) => {
                 {title === 'LinkedIn' && <><AiOutlineLinkedin style={{ margin: '-3px 10px' }} />{title} - dineshgowdpatel </>}
                 {title === 'YouTube' && <><AiOutlineYoutube style={{ margin: '-3px 10px' }} />{title} - @autodidact2590 - Rust Content Creator</>}
                 {title === 'Quora' && <><FaQuora style={{ margin: '-3px 10px' }} />{title}</>}
+                {title === 'Resume' && <><ImProfile style={{ margin: '-3px 10px' }} />{title} - pateldineshgowdresume.netlify.app</>}
             </a>
             <br />
         </div>

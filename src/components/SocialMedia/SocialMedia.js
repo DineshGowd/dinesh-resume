@@ -12,9 +12,13 @@ const socialMediaListItem = [
         url:'www.youtube.com/@autodidact2590'
     },
     {
+        title: "Resume",
+        url:'pateldineshgowdresume.netlify.app'
+    },
+    {
         title: "Quora",
         url:'qr.ae/TJAw1z'
-    }    
+    }
 ];
 
 

@@ -5,13 +5,13 @@ import WorkExperienceList from './WorkExperienceList'
 const workItem = [
     {
         title: "Rust Web Applications",
-        Org:'Sakha Global, Personal Project', 
+        Org:'Personal Project, Sakha Global', 
         timeline: "08/2021 - Present",
         description: "Created Rust Web applications and having good exposure to rust data structures. ",
         points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in RUST programming language",
             "Hands-on knowledge on installation of Diesel with postgres to perform CURD Operations.",
             "Created Rust web application using Rocket Framework, Diesel ORM and React as Frontend",
-            "Exhibiting best practice in Rust and mentoring the juniors on Rust Programming."
+            "Exhibiting best practice in Rust and mentoring juniors on Rust Programming."
         ]
     },
     {

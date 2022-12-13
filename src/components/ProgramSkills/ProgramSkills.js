@@ -19,6 +19,9 @@ const programSkillsItem = [
         title: "gRPC",
     },
     {
+        title: "Redux",
+    },
+    {
         title: "Diesel ORM",
     },
     {

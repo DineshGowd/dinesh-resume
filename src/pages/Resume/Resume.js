@@ -6,7 +6,7 @@ const Resume = () => {
   return (
     <div>
         <ResumeLayout />
-       {true && <Download /> }
+       {false && <Download /> }
     </div>
   )
 }

@@ -22,7 +22,7 @@ const certificationItem = [
 const Certification = () => {
     return (
         <div>
-            <h3 style={{marginBottom:'10px',textDecoration:'underline wavy cyan'}}>Certification : </h3>
+            <h3 style={{marginBottom:'10px',textDecoration:'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Certification : </h3>
             <RegularList
                 items={certificationItem}
                 resourceName="certificationItem"

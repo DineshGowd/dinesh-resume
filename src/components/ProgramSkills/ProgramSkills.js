@@ -42,7 +42,7 @@ const programSkillsItem = [
 const ProgramSkills = () => {
     return (
         <div>
-            <h3 style={{marginBottom:'10px',fontSize:'16px',textDecoration:'underline wavy cyan'}} >Skill Set : </h3>
+            <h3 style={{marginBottom:'10px',fontSize:'16px',textDecoration:'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}} >Skill Set : </h3>
             <RegularList
                 items={programSkillsItem}
                 resourceName="programSkillsItem"

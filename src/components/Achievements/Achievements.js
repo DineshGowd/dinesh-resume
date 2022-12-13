@@ -18,7 +18,7 @@ const achievementItem = [
 const Achievements = () => {
     return (
         <div>
-            <h3 style={{marginBottom:'10px',fontSize:'14px', textDecoration:'underline wavy cyan'}}>Achievements : </h3>
+            <h3 style={{marginBottom:'10px', textDecoration:'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Achievements : </h3>
             <RegularList
                 items={achievementItem}
                 resourceName="achievementItem"

@@ -4,7 +4,7 @@ const EducationList = ({ eduactionItem }) => {
     console.log('per :', eduactionItem)
     const { title, timeline, description } = eduactionItem;
     return (
-        <div style={{margin:'10px'}}>
+        <div>
             <h4 style={{margin:'0px'}}>{title}</h4>
             <span style={{margin:'0px', fontSize:'13px'}}>{timeline}</span>
             <p style={{margin:'5px 0', fontSize:'15px'}}>{description}</p>

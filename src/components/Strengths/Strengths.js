@@ -19,7 +19,7 @@ const strengthItem = [
 const Strengths = () => {
     return (
         <div>
-            <h3 style={{marginBottom:'10px',fontSize:'16px', textDecoration:'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Strengths : </h3>
+            <h3 style={{marginBottom:'10px',fontSize:'16px', textDecoration:'underline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Strengths : </h3>
             <RegularList
                 items={strengthItem}
                 resourceName="strengthItem"

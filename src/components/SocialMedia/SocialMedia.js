@@ -25,7 +25,7 @@ const socialMediaListItem = [
 const SocialMedia = () => {
     return (
         <div>
-            <h3 style={{textDecoration:'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Social Media : </h3>
+            <h3 style={{textDecoration:'underline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px'}}>Social Media : </h3>
             <RegularList
                 items={socialMediaListItem}
                 resourceName="socialMediaListItem"

@@ -41,7 +41,7 @@ const workItem = [
 const WorkExperience = () => {
     return (
         <div>
-            <h3 style={{ textDecoration: 'underline overline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px' }}>Work Experience : </h3>
+            <h3 style={{ textDecoration: 'underline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px' }}>Work Experience : </h3>
             <RegularList
                 items={workItem}
                 resourceName="workItem"

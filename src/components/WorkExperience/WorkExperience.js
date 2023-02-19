@@ -21,7 +21,7 @@ const workItem = [
         description: "Worked as Frontend UI / UX Developer in implementation of solution to Celebrity Web App.",
         points: ["Experienced in React JS and React Design Patterns. ",
             "Developed web app with excellent User Experience and User Interface by implementing Progressive Web Application.",
-            "Having good exposure to data flow management in react application using Redux and Redux Toolkit.",
+            "Had good exposure to data flow management in react application using Redux and Redux Toolkit.",
         ]
     },
     {

@@ -7,7 +7,7 @@ const workItem = [
         title: "Rust Web Applications",
         Org:'Sakha Global', 
         timeline: "07/2021 - Present",
-        description: "Created Rust web applications and having good exposure to rust data structures. ",
+        description: "Created Rust web applications and had good exposure to rust data structures. ",
         points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in Rust programming language.",
             "Hands-on knowledge on installation of Diesel with PostgreSQL to perform CURD Operations.",
             "Created Rust web application using Rocket Framework, Diesel ORM and React as Frontend.",

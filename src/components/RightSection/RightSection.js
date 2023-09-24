@@ -11,8 +11,8 @@ const RightSection = () => {
     <div style={{marginLeft:'20px'}}>
       <ProgramSkills />
       <Strengths />
-      <Achievements />
-      <Certification />
+      {/* <Achievements /> */}
+      {/* <Certification /> */}
       <Education />
       <SocialMedia />
     </div>

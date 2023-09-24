@@ -4,19 +4,17 @@ import WorkExperienceList from './WorkExperienceList'
 
 const workItem = [
     {
-        title: "Rust Web Applications",
-        Org:'Sakha Global', 
-        timeline: "07/2021 - Present",
+        title: "Renault Nissan Automotive India PVT LTD",
+        Org:'Renault Nissan', 
+        timeline: "Dec 2020 - Dec 2021",
         description: "Created Rust web applications and had good exposure to rust data structures. ",
-        points: ["As POC, Created API endpoints using Rocket Web Framework with efficient code in Rust programming language.",
-            "Hands-on knowledge on installation of Diesel with PostgreSQL to perform CURD Operations.",
-            "Created Rust web application using Rocket Framework, Diesel ORM and React as Frontend.",
-            "Exhibiting best practice in Rust and mentoring juniors on Rust Programming."
+        points: ["Kept neat, organized records for completed work. Assisted in executing assigned company initiatives and programs.",
+            "Completed required training programs and accompanying exams to maintain apprenticeship status.",
         ]
     },
     {
-        title: "Celebrity Connect",
-        Org:'Sakha Global',
+        title: "Testing Project",
+        Org:'Personal Project',
         timeline: "01/2022 - 09/2022",
         description: "Worked as Frontend UI / UX Developer in implementation of solution to Celebrity Web App.",
         points: ["Experienced in React JS and React Design Patterns. ",
@@ -24,24 +22,13 @@ const workItem = [
             "Had good exposure to data flow management in react application using Redux and Redux Toolkit.",
         ]
     },
-    {
-        title: "Starbucks",
-        Org:'Wipro Limited',
-        timeline: "06/2019 - 01/2022",
-        description: "Worked as TRIRIGA UI / UX Developer in transforming classic form to react form with enhanced navigation.",
-        points: ["Developed TRIRIGA UI/UX Application using React which optimized user experience that reduces manual efforts.",
-            "Flexible in designing and implementing UX application using TRIRIGA UI/UX Designer tools. Model Designer, Web ViewDesigner, Model - View Designer and Application Designer.",
-            "Worked closely with Development Teams and attended meetings to understand client requirements and discuss regarding requirement implementation in effective ways Created POC's and Demo for In-Pipeline Projects.",
-            "High customer satisfaction index and multiple recognition at customer level."
-        ]
-
-    }
+    
 ];
 
 const WorkExperience = () => {
     return (
         <div>
-            <h3 style={{ textDecoration: 'underline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px' }}>Work Experience : </h3>
+            <h3 style={{ textDecoration: 'underline black 1.5px',textTransform: 'Uppercase', textUnderlineOffset: '5px' }}>Project Experience : </h3>
             <RegularList
                 items={workItem}
                 resourceName="workItem"

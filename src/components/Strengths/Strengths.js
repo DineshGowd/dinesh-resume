@@ -12,7 +12,9 @@ const strengthItem = [
     {
         title: "Problem Solving",
     },
-    
+    {
+        title: "Critical Thinking",
+    },  
 ];
 
 

@@ -12,6 +12,8 @@ const WorkExperienceList = ({ workItem }) => {
                 {Org === 'Wipro Limited' && <> <img src={wipro} alt="Wipro Limited" height='15px' /> {Org}</>}
                 {Org === 'Sakha Global' && <> <img src={sakha} alt="Sakha Global" height='15px' /> {Org}</>}
                 {Org === 'Personal Project, Sakha Global' && <><img src={sakha} alt="Sakha Global" height='15px' />{Org.slice(17,30)}, {Org.slice(0,16)}</>}
+                {Org === 'Renault Nissan' && <>{Org}</>}
+                {Org === 'Personal Project' && <>{Org}</>}
             </p>
             <p style={{ margin: '0 0 6px 0', fontSize: '14px' }}>📅 {timeline}</p>
             <p>{description}</p>

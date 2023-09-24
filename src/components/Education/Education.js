@@ -4,19 +4,19 @@ import EducationList from './EducationList'
 
 const eduactionItem = [
     {
-        title: "B.Tech - Computer Science",
-        timeline: "05/2015 - 04/2019",
-        description: "G Pulla Reddy Engineering College, Kurnool"
+        title: "BE Mechanical Engineering",
+        timeline: "05/2016 - 04/2020",
+        description: "Aarupadai Veedu Institute Of Technology"
     },
     {
-        title: "Intermediate - MPC",
-        timeline: "06/2013 - 04/2015",
-        description: "Narayana Junior College, Anantapur"
+        title: "H S S",
+        timeline: "June 2014 - May 2016",
+        description: "Rajeev Gandhi Higher Secondary School , Kannur, Kerala"
     },
     {
-        title: "S S C",
-        timeline: "06/2012 - 05/2013",
-        description: "Sri Sadguru Jyothi E M School, Konakondla"
+        title: "S S L C",
+        timeline: "MAY 2013 - APR 2014",
+        description: "Rajeev Gandhi Higher Secondary School , Kannur, Kerala"
     }
 ];
 

@@ -12,20 +12,8 @@ const SocialLinks = styled.div`
 const socialMediaListItem = [
     {
         title: "LinkedIn",
-        url:'linkedin.com/in/dineshgowdpatel'
+        url:'linkedin.com/in/adarsh-k-mohan-a4a374202'
     },
-    {
-        title: "YouTube",
-        url:'www.youtube.com/@autodidact2590'
-    },
-    {
-        title: "Resume",
-        url:'pateldineshgowdresume.netlify.app'
-    },
-    {
-        title: "Quora",
-        url:'qr.ae/TJAw1z'
-    }
 ];
 
 

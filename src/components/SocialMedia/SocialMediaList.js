@@ -13,7 +13,7 @@ const SocialMediaList = ({ socialMediaListItem }) => {
     return (
         <div style={{ margin: '10px 0' }}>
             <a style={{ textDecoration: 'none' }} href={`http://${url}`}>
-                {title === 'LinkedIn' && <><AiOutlineLinkedin style={{ margin: '-3px 10px' }} />{title} - dineshgowdpatel </>}
+                {title === 'LinkedIn' && <><AiOutlineLinkedin style={{ margin: '-3px 10px' }} />{title} - linkedin.com/in/adarsh-k-mohan</>}
                 {title === 'YouTube' && <><AiOutlineYoutube style={{ margin: '-3px 10px' }} />{title} - @autodidact2590 - Rust Content Creator</>}
                 {title === 'Quora' && <><FaQuora style={{ margin: '-3px 10px' }} />{title}</>}
                 {title === 'Resume' && <><ImProfile style={{ margin: '-3px 10px' }} />{title} - pateldineshgowdresume.netlify.app</>}

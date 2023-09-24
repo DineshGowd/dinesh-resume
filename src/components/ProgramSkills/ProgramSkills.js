@@ -4,38 +4,29 @@ import ProgramSkillsList from './ProgramSkillsList';
 
 const programSkillsItem = [
     {
-        title: "Rust",
+        title: "Java",
     },
     {
-        title: "JavaScript",
+        title: "Selenium",
     },
     {
-        title: "PWA",
-    },
-    {
-        title: "React JS",
-    },
-    {
-        title: "gRPC",
-    },
-    {
-        title: "Redux",
-    },
-    {
-        title: "Diesel ORM",
+        title: "SQL",
     },
     {
         title: "HTML",
     },
     {
-        title: "CSS",
+        title: "Programming",
     },
     {
-        title: "GIT",
+        title: "SDLC",
     },
     {
-        title: "Core Java",
-    },    
+        title: "STLC",
+    },
+    {
+        title: "Agile Methodologies",
+    },
 ];
 
 
